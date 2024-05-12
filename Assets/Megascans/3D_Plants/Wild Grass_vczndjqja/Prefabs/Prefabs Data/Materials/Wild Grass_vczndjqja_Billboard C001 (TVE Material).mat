@@ -170,7 +170,7 @@ Material:
     - _IsCollected: 0
     - _IsCoreShader: 1
     - _IsCustomShader: 0
-    - _IsIdentifier: 94
+    - _IsIdentifier: 14
     - _IsPlantShader: 1
     - _IsShared: 1
     - _IsSubsurfaceShader: 1
